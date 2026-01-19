@@ -1,0 +1,1 @@
+Testing Spring Boot Cloud Config Server feature.
