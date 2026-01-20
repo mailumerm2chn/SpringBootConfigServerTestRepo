@@ -1,5 +1,5 @@
 my:
-  greeting: Hello World from config server updated.
+  greeting: Hello World from config server updated on 20 Jan 2025.
   list:
     values: One, Two, Three
     
